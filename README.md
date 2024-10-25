@@ -43,4 +43,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Nicole-Castro&theme=monokai&row=2&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
-![snake animation](https://github.com/<Nicole-Castro>/<Nicole-Castro>/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Nicole-Castro/Nicole-Castro/blob/output/github-snake-dark.svg)
