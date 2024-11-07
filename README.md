@@ -38,7 +38,7 @@
     <td>
       <div align="center">
         <a href="https://github.com/Nicole-Castro">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicole-Castro&hide=css,blade,shell,batchfile,dockerfile,typescript&theme=tokyonight&show_icons=true&bg_color=000&title_color=9324c7&text_color=FFF&border_radius=3&border_color=9324c7&icon_color=9324c7&theme=jolly" alt="Top Languages">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicole-Castro&hide=batchfile&theme=tokyonight&show_icons=true&bg_color=000&title_color=9324c7&text_color=FFF&border_radius=3&border_color=9324c7&icon_color=9324c7&theme=jolly" alt="Top Languages">
         </a>
       </div>
     </td>
