@@ -6,7 +6,7 @@
 
 <h3>Main Skills!</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,docker,git,java,mysql,php,laravel,figma,postgres,py,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,docker,git,java,mysql,php,laravel,figma,postgres,cs,react)](https://skillicons.dev)
 
 </div>
 <div align="center">  
