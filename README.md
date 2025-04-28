@@ -14,7 +14,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicole-Castro&layout=compact&hide_border=true&title_color=D26DF7&text_color=e6e6e6&bg_color=1a1a1c" />
 </div>
 
-[![Nicole Castro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nicole-castro&bg_color=1a1a1c&color=D26DF7&line=D26DF7&point=D26DF7&area=true&hide_border=true)](https://github.com/Nicole-Castro/github-readme-activity-graph)
+[![Nicole Castro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nicole-Castro&bg_color=1a1a1c&color=D26DF7&line=D26DF7&point=D26DF7&area=true&hide_border=true)](https://github.com/Nicole-Castro/github-readme-activity-graph)
 
 ![snake gif](https://github.com/Nicole-Castro/Nicole-Castro/blob/output/github-snake-dark.svg)
 
