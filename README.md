@@ -7,11 +7,8 @@
 <h3>Main Skills!</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,docker,git,azure,java,mysql,php,laravel,figma,postgres,react,python,linux)](https://skillicons.dev)
-
-</div>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nicole-Castro&show_icons=true&count_private=true&hide_border=true&title_color=D26DF7&icon_color=D26DF7&text_color=e6e6e6&bg_color=1a1a1c&rank_icon=github&" alt="Nicole Castro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicole-Castro&layout=compact&hide_border=true&title_color=D26DF7&text_color=e6e6e6&bg_color=1a1a1c" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nicole-Castro/Nicole-Castro/main/metrics.svg" alt="GitHub Metrics" />
 </div>
 
 [![Nicole Castro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nicole-Castro&bg_color=1a1a1c&color=D26DF7&line=D26DF7&point=D26DF7&area=true&hide_border=true)](https://github.com/Nicole-Castro/github-readme-activity-graph)
