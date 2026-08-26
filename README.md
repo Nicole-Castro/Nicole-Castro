@@ -6,7 +6,8 @@
 
 <h3>Main Skills!</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,docker,git,azure,java,mysql,php,laravel,figma,postgres,react,python,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,docker,git,azure,java,mysql,php,laravel,figma,postgres,react,python,githubactions,linux,arduino&perline=8)](https://skillicons.dev)
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nicole-Castro/Nicole-Castro/main/metrics.svg" alt="GitHub Metrics" />
 </div>
